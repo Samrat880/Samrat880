@@ -46,8 +46,9 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/samrat"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-  <a href="mailto:samrat@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+  <a href="https://www.linkedin.com/in/samrat-16b7ba21b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:krsamrat1010@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+  <a href="https://x.com/Samrat4488"><img src="[https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor"/></a>
 </p>
 
 ---
